@@ -7,6 +7,8 @@
 # My Projects
 ### Feature Me
 The Music Game on web.
-https://github.com/Feature-Me/Feature-Me
+Organization : https://github.com/Feature-Me
 
-Play: https://feature-me.onrender.com/
+Play: https://featureme.net
+
+Play Feature Me Alpha : https://alpha.featureme.net
